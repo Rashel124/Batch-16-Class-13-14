@@ -1,0 +1,20 @@
+
+
+
+
+================Media query for device responsive design===========
+
+
+@media screen and (max-width: 1200px){
+    .project-content {
+        background-color: red;
+    }
+}
+
+
+Minimum 18
+
+17 34
+
+Maximum 30
+29 32
